@@ -1,0 +1,5 @@
+
+Name Source                                     Updated               Manifests
+---- ------                                     -------               ---------
+main https://github.com/ScoopInstaller/Main.git 28/10/2025 8:31:53 PM      1407
+

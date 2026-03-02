@@ -1,0 +1,19 @@
+{
+    "apps": [
+        {
+            "Info": "",
+            "Updated": "2025-10-28T21:10:00.519978+08:00",
+            "Name": "hugo-extended",
+            "Source": "main",
+            "Version": "0.152.2"
+        }
+    ],
+    "buckets": [
+        {
+            "Name": "main",
+            "Source": "https://github.com/ScoopInstaller/Main.git",
+            "Updated": "2025-10-28T20:31:53+08:00",
+            "Manifests": 1407
+        }
+    ]
+}
